@@ -12,5 +12,10 @@
   "marketoMunchkinKey": "",
   "algoliaAppId": "U2L4F547EZ",
   "segmentWriteKey": "2f5uxsAppe8EzeELzBS0kJCsmVsfvtB3",
-  "zendeskKey": "62b867cd-fe6c-4f0d-bd50-98248782e2a0"
+  "zendeskKey": "62b867cd-fe6c-4f0d-bd50-98248782e2a0",
+  "launchDarklyClientId": "6026bd6f3ba4110aafe2dc78",
+  "salesforceOrgId": "00DU7000008VAw9",
+  "salesforceEmbeddedServiceName": "Affinity_Dev",
+  "salesforceBaseUrl": "https://coalition22--uat.sandbox.my.site.com/ESWAffinityDev1766080122495",
+  "salesforceScrt2Url": "https://coalition22--uat.sandbox.my.salesforce-scrt.com"
 }
